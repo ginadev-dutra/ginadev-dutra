@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gina Dutra 👋
 
-- 🔭 Estudo Sistemas de Informação na PUC Minas
-- 😍 Estou me especializando em Java
+- 🔭 Graduada em Sistemas de Informação na PUC Minas
+- 😍 Engenheira de Software na PagBank
 - 😄 Me chame por ela
 
 <div align="center">
